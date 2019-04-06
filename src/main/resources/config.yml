@@ -1,0 +1,66 @@
+# KSocials by Randomizable#6430
+# A basic plugin that lets you display your social media in-game.
+
+# To disable one of the command simply change true to false
+# If your desired social media platform is not listed please request for it to be added!
+
+#General Messages
+no_permission_message: "&7[&bKSocials&7] &cYou do not have permission to use this command!"
+commands_disabled_message: "&fUnknown command. Type '/help' for help."
+player_only_message: "&7[&bKSocials&7] &cThis command is only for players!"
+
+#Discord Command & Message
+enable_discord_command: true
+discord_message: "&7[&bKSocials&7] &aThis is working"
+
+#Website Command & Message
+enable_website_command: true
+website_message: "&7[&bKSocials&7] &aKSocials.com"
+
+#Teamspeak Command & Message
+enable_teamspeak_command: true
+teamspeak_message: "&7[&bKSocials&7] &ats.ksocials.com"
+
+#Telegram Command & Message
+enable_telegram_command: true
+telegram_message: "&7[&bKSocials&7] &atelegram.me/KSocials"
+
+#Twitter Command & Message
+enable_twitter_command: true
+twitter_message: "&7[&bKSocials&7] &aTwitter.com/KSocials"
+
+#Facebook Command & Message
+enable_facebook_command: true
+facebook_message: "&7[&bKSocials&7] &aFacebook.com/KSocials"
+
+#Github Command & Message
+enable_github_command: true
+github_message: "&7[&bKSocials&7] &aGithub.com/KSocials"
+
+#Youtube Command & Message
+enable_youtube_command: true
+youtube_message: "&7[&bKSocials&7] &aYoutube.com/KSocials"
+
+#Instagram Command & Message
+enable_instagram_command: true
+instagram_message: "&7[&bKSocials&7] &aInstagram.com/KSocials"
+
+#MC-Market Command & Message
+enable_mcmarket_command: true
+mcmarket_message: "&7[&bKSocials&7] &aMC-Market.org/KSocials"
+
+#Twitch Command & Message
+enable_twitch_command: true
+twitch_message: "&7[&bKSocials&7] &aTwitch.tv/KSocials"
+
+#Snapchat Command & Message
+enable_snapchat_command: true
+snapchat_message: "&7[&bKSocials&7] &aSnapchat: KSocials"
+
+#Reddit Command & Message
+enable_reddit_command: true
+reddit_message: "&7[&bKSocials&7] &aReddit.com/KSocials"
+
+#Google+ Command & Message
+enable_googleplus_command: true
+googleplus_message: "&7[&bKSocials&7] &agoogle.com/KSocials"

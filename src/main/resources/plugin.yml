@@ -1,0 +1,51 @@
+name: KSocials
+version: ${project.version}
+main: me.randomizable.ksocials.KSocials
+api-version: 1.13
+authors: [Randomizable]
+description: A plugin to display your social media
+website: https://www.mc-market.org/members/77810/
+
+commands:
+  discord:
+    usage: /discord
+    description: Displays discord invite message
+  website:
+    usage: /website
+    description: Displays website / forums link.
+  teamspeak:
+    usage: /teamspeak
+    description: Displays teamspeak IP.
+  telegram:
+    usage: /telegram
+    description: Displays telegram invite message
+  twitter:
+    usage: /twitter
+    description: Displays Twitter message.
+  facebook:
+    usage: /facebook
+    description: Displays facebook page message.
+  github:
+    usage: /github
+    description: Displays github message.
+  youtube:
+    usage: /youtube
+    description: Displays youtube account message.
+  instagram:
+    usage: /instagram
+    description: Displays instagram profile message.
+  mcmarket:
+    usage: /mcmarket
+    description: Displays mc-market profile
+  twitch:
+    usage: /twitch
+    description: Displays twitch prile message.
+  snapchat:
+    usage: /snapchat
+    description: Displays snapchat username message
+  reddit:
+    usage: /reddit
+    description: Displays reddit page message.
+  googleplus:
+    usage: /googleplus
+    description: Displays google+ page message.
